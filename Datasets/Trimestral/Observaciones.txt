@@ -1,0 +1,24 @@
+OBSERVACIÓ: Aquest dataset es preveu que sigui donat de baixa el 9/4/2024. Podreu trobar les dades al portal Barcelona Dades
+
+Les compravendes corresponen al recompte dels habitatges inscrits en el Registre de la Propietat amb transmissió del 100% del domini de la propietat.
+
+El preu total de l'habitatge és el preu de l'habitatge, en milers d'euros, que consta a l'escriptura de compravenda.
+El preu per metre quadrat construït correspon a la mitjana del preu de l’habitatge per la superfície construïda ( euros/metre quadrat construït). En aquesta variable, el preu de l’habitatge nou correspon al de l’habitatge lliure.
+Només es farà pública la informació relacionada amb el preu dels àmbits que tinguin més de dues compravendes registrades, en el període considerat.
+
+Campo						Descripción
+01.Any						Any de les dades
+
+02.Trimestre					Trimestre de les dades
+
+03.Codi_Districte				Codi del districte
+
+04.Nom_Districte				Nom del districte
+
+05.Codi_Barri					Codi del barri
+
+06.Nom_Barri					Nom del barri
+
+07.Preu_mitja_habitatge				Preu mitjà de l'habitatge (milers d'euros)
+
+08.Valor					Valor del preu de l'habitatge
