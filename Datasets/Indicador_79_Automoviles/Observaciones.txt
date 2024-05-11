@@ -1,0 +1,20 @@
+Padrón de vehículos. Índice de motorización del parque de vehículos de la ciudad de Barcelona
+
+
+
+Campo			Descripción
+01.Any			Any
+
+02.Codi_Districte	Codi del districte
+
+03.Nom_Districte	Nom del districte
+
+04.Codi_Barri		Codi del barri
+
+05.Nom_Barri		Nom del barri
+
+06.Seccio_Censal	Secció censal
+
+07.Tipus_Vehicle	Tipus de vehicle
+
+08.Index_Motoritzacio 	Índex de motorització
