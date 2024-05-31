@@ -95,7 +95,7 @@ Este proyecto está bajo la Licencia Creative Commons Reconocimiento-NoComercial
 Para cualquier consulta o sugerencia, puedes contactar con el autor del proyecto:
 
 - **Nombre**: David Muñoz Bertrán
-- **Correo Electrónico**: david.muñoz@example.com
+- **Correo Electrónico**: maxpainegt@hotmail.com, dmunozbe@uoc.edu
 
 ---
 
