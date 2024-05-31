@@ -42,6 +42,17 @@ Para replicar este trabajo, sigue estos pasos:
     ```bash
     pip install -r requirements.txt
     ```
+    
+## Conjuntos de datos obtenidos
+- En la capeta de datasets, ordenados por carpetas para cada indicador, se encuentran los conjuntos de datos obtenidos para cada indicador.
+- Estos conjuntos de datos tienen formatos diferentes y estructuras de datos diferentes.
+
+## Carga de datos
+- En la carpeta CargaDatos, se encuentran para cada indicador, el notebook correspondiente para la carga de datos de los conjuntos de datos obtenidos.
+- El resultado de estos notebooks, son conjuntos de datos resultantes en formato CSV, alojados en la carpeta DatasetsResultantes
+
+## Conjuntos de datos resultantes
+
 
 ## Uso
 
@@ -49,6 +60,8 @@ Para replicar este trabajo, sigue estos pasos:
     ```bash
     jupyter notebook
     ```
+
+    
 2. Navega a los notebooks correspondientes dentro de la carpeta `notebooks` y ejecútalos en el orden indicado:
     - `NB_Paro.ipynb`
     - `NB_EstudiosObligatorios.ipynb`
@@ -65,7 +78,7 @@ Para replicar este trabajo, sigue estos pasos:
 
 ## Resultados
 
-Los resultados del análisis y los modelos predictivos se encuentran en la carpeta `results`. Aquí se incluyen gráficos, tablas y modelos entrenados que reflejan las principales conclusiones del estudio.
+Los resultados del análisis y los modelos predictivos se encuentran en la carpeta `Forecasting`. Aquí se incluyen gráficos, tablas y modelos entrenados que reflejan las principales conclusiones del estudio.
 
 ## Contribuciones
 
