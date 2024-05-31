@@ -48,11 +48,15 @@ Para replicar este trabajo, sigue estos pasos:
 - Estos conjuntos de datos tienen formatos diferentes y estructuras de datos diferentes.
 
 ## Carga de datos
-- En la carpeta CargaDatos, se encuentran para cada indicador, el notebook correspondiente para la carga de datos de los conjuntos de datos obtenidos.
-- El resultado de estos notebooks, son conjuntos de datos resultantes en formato CSV, alojados en la carpeta DatasetsResultantes
+- En la carpeta CargaDatos, se encuentran para cada indicador, un notebook para la carga de datos de los conjuntos de datos obtenidos.
+- El resultado de estos notebooks es un conjunto de datos por indicador en formato CSV, alojados en la carpeta DatasetsResultantes
 
-## Conjuntos de datos resultantes
+## Union de datos
+- En el notebook `Union_Datasets.ipynb` se realiza la unicon de todos los CSV, ubicados en la carpeta DatasetsResultantes
+- El resultado de la union de todos estos CSV, se encuentra en el archivo `Final.csv`.
 
+## Exploracion de datos
+- En el notebook `ExploracionDatos.ipynb` se realiza la exploracion de datos del conjunto de datos `Final.csv`.
 
 ## Uso
 
