@@ -26,7 +26,7 @@ Este proyecto de Trabajo de Fin de Máster (TFM) se centra en analizar el valor 
 - Jupyter Notebook
 - Librerías necesarias: pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels
 
-## Instalación
+## Instalación 
 
 Para replicar este trabajo, sigue estos pasos:
 
