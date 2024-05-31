@@ -32,11 +32,11 @@ Para replicar este trabajo, sigue estos pasos:
 
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/tu_usuario/tu_repositorio.git
+    git clone https://github.com/dmunozbe/TFM_DataScience.git
     ```
 2. Navega al directorio del proyecto:
     ```bash
-    cd tu_repositorio
+    cd TFM_DataScience
     ```
 3. Instala las librerías necesarias:
     ```bash
