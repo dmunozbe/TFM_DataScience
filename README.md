@@ -96,7 +96,3 @@ Para cualquier consulta o sugerencia, puedes contactar con el autor del proyecto
 
 - **Nombre**: David Muñoz Bertrán
 - **Correo Electrónico**: maxpainegt@hotmail.com, dmunozbe@uoc.edu
-
----
-
-Este `README.md` proporciona una guía clara y detallada sobre el proyecto, facilitando su comprensión y replicación por otros interesados.
