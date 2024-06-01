@@ -63,14 +63,19 @@ Para replicar este trabajo, sigue estos pasos:
 - Cada Notebook contiene los resultados del analisis y los modelos predictivos.
 
 ## Uso
+Tal y como esta estructurado el proyecto, la puesta en marcha se puede realizar desde diferentes puntos
 
+### Realizar la carga de datos
 1. Abre Jupyter Notebook:
     ```bash
     jupyter notebook
     ```
+2. Descarga los conjuntos de datos ubicados en la carpeta `Datasets`
+3. Navega a los notebooks correspondientes dentro de la carpeta `CargaDatos`y ejecutalos en el orden deseado ya que son independientes los unos de los otros. Ten en cuenta modificar el path de donde se encuentran los conjuntos de datos.
+
 
 ### Carga de datos
-2. Navega a los notebooks correspondientes dentro de la carpeta `notebooks` y ejecútalos en el orden indicado:
+. Navega a los notebooks correspondientes dentro de la carpeta `notebooks` y ejecútalos en el orden indicado:
     - `NB_Paro.ipynb`
     - `NB_EstudiosObligatorios.ipynb`
     - `NB_EnergiaElectricaResidencial.ipynb`
