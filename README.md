@@ -70,8 +70,22 @@ Tal y como esta estructurado el proyecto, la puesta en marcha se puede realizar 
     ```bash
     jupyter notebook
     ```
-2. Descarga los conjuntos de datos ubicados en la carpeta `Datasets`
+2. Descarga los conjuntos de datos ubicados en la carpeta `Datasets`.
+
 3. Navega a los notebooks correspondientes dentro de la carpeta `CargaDatos`y ejecutalos en el orden deseado ya que son independientes los unos de los otros. Ten en cuenta modificar el path de donde se encuentran los conjuntos de datos.
+
+    - `NB_Paro.ipynb`
+    - `NB_EstudiosObligatorios.ipynb`
+    - `NB_EnergiaElectricaResidencial.ipynb`
+    - `NB_PM2_5.ipynb`
+    - `NB_PM10.ipynb`
+    - `NB_ParticipacionElecciones.ipynb`
+    - `NB_EsperanzaVida.ipynb`
+    - `NB_Internet.ipynb`
+    - `NB_Movil.ipynb`
+    - `NB_Motorizacion.ipynb`
+    - `NB_SuperficieVerde.ipynb`
+    - `NB_Compraventa.ipynb`
 
 
 ### Carga de datos
