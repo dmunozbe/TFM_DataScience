@@ -63,7 +63,7 @@ Para replicar este trabajo, sigue estos pasos:
 - Cada Notebook contiene los resultados del analisis y los modelos predictivos.
 
 ## Uso
-Tal y como esta estructurado el proyecto, la puesta en marcha se puede realizar desde diferentes puntos
+Tal y como esta estructurado el proyecto y los notebooks, la puesta en marcha se puede realizar desde las diferentes etapas realizadas:
 
 ### Realizar la carga de datos
 1. Abre Jupyter Notebook:
@@ -72,7 +72,7 @@ Tal y como esta estructurado el proyecto, la puesta en marcha se puede realizar 
     ```
 2. Descarga los conjuntos de datos ubicados en la carpeta `Datasets`.
 
-3. Navega a los notebooks correspondientes dentro de la carpeta `CargaDatos`y ejecutalos en el orden deseado ya que son independientes los unos de los otros. Ten en cuenta modificar el path de donde se encuentran los conjuntos de datos.
+3. Navega a los notebooks correspondientes dentro de la carpeta `CargaDatos`y ejecutalos en el orden deseado ya que son independientes los unos de los otros. Ten en cuenta modificar la ruta de donde se encuentran los conjuntos de datos.
 
     - `NB_Paro.ipynb`
     - `NB_EstudiosObligatorios.ipynb`
@@ -88,20 +88,32 @@ Tal y como esta estructurado el proyecto, la puesta en marcha se puede realizar 
     - `NB_Compraventa.ipynb`
 
 
-### Carga de datos
-. Navega a los notebooks correspondientes dentro de la carpeta `notebooks` y ejecútalos en el orden indicado:
-    - `NB_Paro.ipynb`
-    - `NB_EstudiosObligatorios.ipynb`
-    - `NB_EnergiaElectricaResidencial.ipynb`
-    - `NB_PM2_5.ipynb`
-    - `NB_PM10.ipynb`
-    - `NB_ParticipacionElecciones.ipynb`
-    - `NB_EsperanzaVida.ipynb`
-    - `NB_Internet.ipynb`
-    - `NB_Movil.ipynb`
-    - `NB_Motorizacion.ipynb`
-    - `NB_SuperficieVerde.ipynb`
-    - `NB_Compraventa.ipynb`
+### Union
+1. Abre Jupyter Notebook:
+    ```bash
+    jupyter notebook
+    ```
+2. Descarga los conjuntos de datos resultantes del paso anterior ubicados en la carpeta `DatasetsResultantes`.
+   
+3. Navega y ejecuta el notebook correspondiente `Union_datasets.ipynb` ubicado en la carpeta raiz del proyecto. Recuerda modificar la ruta de donde se encuentran los conjuntos de datos.
+
+
+### Exploracion de datos
+1. Abre Jupyter Notebook:
+    ```bash
+    jupyter notebook
+    ```
+2. Descarga los conjuntos de datos resultantes del paso anterior ubicados en la carpeta `DatasetsResultantes`.
+   
+3. Navega y ejecuta el notebook correspondiente `Union_datasets.ipynb` ubicado en la carpeta raiz del proyecto. Recuerda modificar la ruta de donde se encuentran los conjuntos de datos.
+
+
+### Forecasting
+
+
+
+
+    
 
 ## Resultados
 
