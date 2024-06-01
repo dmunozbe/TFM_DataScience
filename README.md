@@ -58,6 +58,10 @@ Para replicar este trabajo, sigue estos pasos:
 ## Exploracion de datos
 - En el notebook `ExploracionDatos.ipynb` se realiza la exploracion de datos del conjunto de datos `Final.csv`.
 
+## Forcasting
+- En la carpeta de Forecasting se encuentran ordenados por distritos los diferentes Notebooks realizados para cada par de indicador/variable
+- Cada Notebook contiene los resultados del analisis y los modelos predictivos.
+
 ## Uso
 
 1. Abre Jupyter Notebook:
