@@ -69,7 +69,7 @@ Para replicar este trabajo, sigue estos pasos:
     jupyter notebook
     ```
 
-    
+### Carga de datos
 2. Navega a los notebooks correspondientes dentro de la carpeta `notebooks` y ejecútalos en el orden indicado:
     - `NB_Paro.ipynb`
     - `NB_EstudiosObligatorios.ipynb`
