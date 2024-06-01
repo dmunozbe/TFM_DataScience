@@ -93,7 +93,7 @@ Tal y como esta estructurado el proyecto y los notebooks, la puesta en marcha se
     ```bash
     jupyter notebook
     ```
-2. Descarga los conjuntos de datos resultantes del paso anterior ubicados en la carpeta `DatasetsResultantes`.
+2. Descarga los conjuntos de datos resultantes ubicados en la carpeta `DatasetsResultantes` o bien utiliza los obtenidos en el paso anterior.
    
 3. Navega y ejecuta el notebook correspondiente `Union_datasets.ipynb` ubicado en la carpeta raiz del proyecto. Recuerda modificar la ruta de donde se encuentran los conjuntos de datos.
 
@@ -103,16 +103,33 @@ Tal y como esta estructurado el proyecto y los notebooks, la puesta en marcha se
     ```bash
     jupyter notebook
     ```
-2. Descarga los conjuntos de datos resultantes del paso anterior ubicados en la carpeta `DatasetsResultantes`.
+2. Descarga el conjunto de conjuntos de datos final `Final.csv` ubicado en la carpeta raiz del proyecto o utiliza el obtenido en el paso anterior.
    
-3. Navega y ejecuta el notebook correspondiente `Union_datasets.ipynb` ubicado en la carpeta raiz del proyecto. Recuerda modificar la ruta de donde se encuentran los conjuntos de datos.
+3. Navega y ejecuta el notebook correspondiente `ExploracionDatos.ipynb` ubicado en la carpeta raiz del proyecto. Recuerda modificar la ruta de donde se encuentra el conjuntos de datos.
 
 
 ### Forecasting
+1. Abre Jupyter Notebook:
+    ```bash
+    jupyter notebook
+    ```
+2. Descarga el conjunto de conjuntos de datos final `Final.csv` ubicado en la carpeta raiz del proyecto o utiliza el obtenido en el paso anterior.
+   
+3. Navega y ejecuta los notebooks correspondientes al distrito de interes ubicados en la carpeta `Forecasting`. Cada distrito contiene 11 notebook's. Recuerda modificar la ruta de donde se encuentra el conjuntos de datos.
 
-
-
-
+    - `Forecasting_(Indicador_1).ipynb`
+    - `Forecasting_(Indicador_10).ipynb`
+    - `Forecasting_(Indicador_15).ipynb`
+    - `Forecasting_(Indicador_22).ipynb`
+    - `Forecasting_(Indicador_23).ipynb`
+    - `Forecasting_(Indicador_40).ipynb`
+    - `Forecasting_(Indicador_46).ipynb`
+    - `Forecasting_(Indicador_73).ipynb`
+    - `Forecasting_(Indicador_74).ipynb`
+    - `Forecasting_(Indicador_79).ipynb`
+    - `Forecasting_(Indicador_85).ipynb`
+  
+4. En caso de querer realizar el analisis de datos de otro distrito no analizado, se recomienda copiar estrutura/carpeta de distrito y modificar los notebooks con los parametros necesarios para modificar el distrito en cuestion.
     
 
 ## Resultados
